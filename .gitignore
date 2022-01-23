@@ -3,3 +3,9 @@
 ################################################################################
 
 /SupermarketManagement/.vs/SupermarketManagement/v16
+/SupermarketManagement/SupermarketManagement.Common/obj
+/SupermarketManagement/SupermarketManagement.Other.Application/obj
+/SupermarketManagement/SupermarketManagement.Other.Application.Contracts/obj
+/SupermarketManagement/SupermarketManagement.Other.Domain/obj
+/SupermarketManagement/SupermarketManagement.Other.Repository.InMemory/obj
+/SupermarketManagement/SupermarketManagement.WebApp/obj
